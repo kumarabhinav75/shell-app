@@ -1,0 +1,8 @@
+{
+  "name": "shell-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kumarabhinav75/shell-app.git",
+  "author": "abhinavkumar75 <abhinav.kumar@cleartax.in>",
+  "license": "MIT"
+}
