@@ -1,9 +1,11 @@
 import React from 'react';
 
+import Style from './style.css';
+
 const App = () => {
 
   return (
-    <div>
+    <div className='shell'>
       <h1>Shell Application</h1>
     </div>
   );
